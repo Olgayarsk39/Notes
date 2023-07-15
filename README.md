@@ -10,4 +10,4 @@
 
 
 [Решение](Task.py)
-[ison файл](notes.json)
+[json файл](notes.json)
